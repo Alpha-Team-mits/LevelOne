@@ -16,9 +16,7 @@ MITS Hackathon Screening Round Codes
     
  Ideas:
  
-     Computer Programming in the field of Psychology
-     
-         Psychology is the scientific study of human mind and its functions, especially those affecting behaviour in a common context. Computer Programming is not used in this field up till now. Our team formulated an idea in which the computer programming can be used to improve the research and development in the field of Psychology.
+    
     
  Structure of Repository:
     
